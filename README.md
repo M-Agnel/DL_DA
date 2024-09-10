@@ -1,5 +1,5 @@
 # DL_DA
-# # Advancing Thyroid Disease Classification using Hybrid CNN-RNN Model
+# # Hybrid Approach Using CNN and RNN for Enhanced Classification of Thyroid Diseases
 
 ## Abstract
 
